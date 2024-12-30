@@ -3,7 +3,7 @@ bind_port: 3000
 beta_bind_port: 0
 users:
   - name: dzm
-    password: $2y$10$vHRcARdPCieYG3RXWomV5evDYN.Nj/edtwEkQgQJZcK6z7qTLaIc6
+    password: $2y$10$Z/a5loYGCQk2VepFf1OmLubxk16roBFIUgrVCWdhzsT9wkNEUubdG
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
